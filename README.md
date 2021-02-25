@@ -17,6 +17,6 @@ VM setup on VMware Workstation 15 player
     - [ ] Import at least one model from the Gazebo online library and implement it in your existing Gazebo world.
     - [ ] Write a C++ World Plugin to interact with your world.
 
-    ![basic-building](docs/imgs/basic-building.png)
+![basic-building](docs/imgs/basic-building.png)
 
 
