@@ -19,3 +19,4 @@ VM setup on VMware Workstation 15 player
 
 | ![basic-building](docs/imgs/basic-building.png) | ![my_bot](docs/imgs/my_bot.png) |
 | --- | --- |
+
