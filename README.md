@@ -18,4 +18,7 @@ VM setup on VMware Workstation 15 player
 
 ## Project 2 - Go Chase It
 
+| ![project2](project2/docs/imgs/project2.gif) |
+| --- |
+
 [Project 2](./project2)
