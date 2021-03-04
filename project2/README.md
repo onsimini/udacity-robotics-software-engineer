@@ -3,8 +3,8 @@
 
 ## Project 2 - Go Chase It
 
-| ![]() | ![]() | ![]() |
-| --- | --- | --- |
+| ![project2](docs/imgs/project2.gif) |
+| --- |
 
 ### Project Setup
 
