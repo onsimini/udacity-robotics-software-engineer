@@ -6,8 +6,8 @@
 
 VM setup on VMware Workstation 15 player
 
-	- ubuntu 16.04 LTS
-	- gazebo 7.16.1
+    - ubuntu 16.04 LTS
+    - gazebo 7.16.1
 
 ## Project 1 - Build My World
 
@@ -15,3 +15,7 @@ VM setup on VMware Workstation 15 player
 | --- | --- | --- |
 
 [Project 1](./project1)
+
+## Project 2 - Go Chase It
+
+[Project 2](./project2)
