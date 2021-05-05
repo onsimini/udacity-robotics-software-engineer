@@ -1,0 +1,8 @@
+prefix=/home/ros/work/udacity-robotics-software-engineer/project2/catkin_ws/devel
+
+Name: ball_chaser
+Description: Description of ball_chaser
+Version: 0.1.0
+Cflags: -I/home/ros/work/udacity-robotics-software-engineer/project2/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
