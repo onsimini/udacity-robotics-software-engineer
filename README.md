@@ -24,3 +24,7 @@ VM setup on VMware Workstation 15 player
 | --- |
 
 [Project 2](./project2)
+
+## Project 3 - Where Am I
+
+[Project 3](./project3)
