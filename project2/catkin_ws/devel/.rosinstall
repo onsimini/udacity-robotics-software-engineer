@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ros/work/udacity-robotics-software-engineer/project2/catkin_ws/devel/setup.sh
