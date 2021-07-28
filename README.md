@@ -27,4 +27,7 @@ VM setup on VMware Workstation 15 player
 
 ## Project 3 - Where Am I
 
+| ![project2](project3/docs/imgs/project3.gif) |
+| --- |
+
 [Project 3](./project3)
