@@ -4,19 +4,20 @@
 ## Project 5 - Home Service Robot
 
 ### a brief write-up explaining the packages used
+
 In this project, we used 
-	- ![gmapping](http://wiki.ros.org/gmapping) to easily perform SLAM and build a map of the environment with a robot equipped with laser range finder sensors or RGB-D cameras.
+- [gmapping](http://wiki.ros.org/gmapping) to easily perform SLAM and build a map of the environment with a robot equipped with laser range finder sensors or RGB-D cameras.
+
+- [turtlebot_teleop](http://wiki.ros.org/turtlebot_teleop) to manually control a robot using keyboard commands.
 	
-	- ![turtlebot_teleop](http://wiki.ros.org/turtlebot_teleop) to manually control a robot using keyboard commands.
+- [turtlebot_rviz_launchers](http://wiki.ros.org/turtlebot_rviz_launchers) to load a preconfigured rviz workspace and it will automatically load the robot model, 
+trajectories, and map for us.
 	
-	- ![turtlebot_rviz_launchers](http://wiki.ros.org/turtlebot_rviz_launchers) to load a preconfigured rviz workspace and it will automatically load the robot model, 
-	trajectories, and map for us.
+- [turtlebot_gazebo](http://wiki.ros.org/turtlebot_gazebo) to deploy a turtlebot in a gazebo environment by linking the world file to it.
 	
-	- ![turtlebot_gazebo](http://wiki.ros.org/turtlebot_gazebo) to deploy a turtlebot in a gazebo environment by linking the world file to it.
+- pick_object to give waypoint to the robot (the pick up coordonne first, and the drop out object 5 seconds after it reach the pick up point).
 	
-	- pick_object to give waypoint to the robot (the pick up coordonne first, and the drop out object 5 seconds after it reach the pick up point).
-	
-	- add_markers to show the pick up object at the pick up point until the robot reach this point, and make it disapear, and when the robot reach the drop off point the node make the object reapear in this point, simulation the delivrery project.
+- add_markers to show the pick up object at the pick up point until the robot reach this point, and make it disapear, and when the robot reach the drop off point the node make the object reapear in this point, simulation the delivrery project.
 
 
 ### Project tasks
