@@ -49,44 +49,44 @@ trajectories, and map for us.
 
 ### Simulation setup check
 
-	In project5/catkin_wp/src/scripts, run:
+	In project5/catkin_wp, run:
 ```
-	./launch.sh
+	./src/scripts/launch.sh
 ```
 
 ### Maping
 
-	In project5/catkin_wp/src/scripts, run:
+	In project5/catkin_wp, run:
 ```
-	./test_slam.sh
+	./src/scripts/test_slam.sh
 ```
 
 ### Navigation
 
-	In project5/catkin_wp/src/scripts, run:
+	In project5/catkin_wp, run:
 ```
-	./test_nagigation.sh
+	./src/scripts/test_nagigation.sh
 ```
 
 ### Waypoint Node
 
-	In project5/catkin_wp/src/scripts, run:
+	In project5/catkin_wp, run:
 ```
-	./pick_object.sh
+	./src/scripts/pick_object.sh
 ```
 
 ### Virtual Object
 
-	In project5/catkin_wp/src/scripts, run:
+	In project5/catkin_wp, run:
 ```
-	./add_marker.sh
+	./src/scripts/add_marker.sh
 ```
 
 ### Put it all together - HOME SERVICE ROBOT
 
-	In project5/catkin_wp/src/scripts, run:
+	In project5/catkin_wp, run:
 ```
-	./home_service.sh
+	./src/scripts/home_service.sh
 ```
 
 
